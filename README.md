@@ -10,6 +10,6 @@
 
 ## Installation:
 ```bash
-git clone https://github.com/YOUR-GITHUB-USERNAME/AI-Dependency-Checker.git
+git clone https://github.com/Orval1/AI-Dependency-Checker.git
 cd AI-Dependency-Checker
 pip install -r requirements.txt
